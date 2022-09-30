@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/quantium_transaction_data.jpeg" height="400"/>
+<img src="images/quantium_retail.png" height="400"/>
 </p>
 
 > Conduct analysis on the transactional and customer data for a large supermarket brand to generate highly valued insights and provide recommendations to help the business make strategic decisions.
